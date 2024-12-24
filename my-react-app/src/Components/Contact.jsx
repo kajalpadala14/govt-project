@@ -2,7 +2,7 @@ import React from "react";
 
 function Contact() {
   return (
-    <div id="contact" className="max-w-4xl mx-auto p-8">
+    <div id="contact" className="max-w-4xl mx-auto p-8 bg-gray-100 font-serif">
       <h2 className="text-3xl font-bold mb-6 text-center">Contact Us</h2>
       <p className="mb-8 text-center text-lg">
         We would love to hear from you! Whether you're looking to book a stay or have any questions, feel free to contact us.

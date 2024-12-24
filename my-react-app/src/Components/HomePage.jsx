@@ -2,7 +2,7 @@ import React from "react";
 
 function HomePage() {
   return (
-    <div className="flex mt-8 font-serif w-screen">
+    <div className="bg-gray-100 py-16 px-8 font-serif flex w-screen">
       <div className="bg-gray-100 py-16 px-8 w-screen">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-3xl font-bold text-gray-800 mb-4 text-center">Top Homestay</h2>
